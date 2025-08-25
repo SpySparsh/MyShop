@@ -186,25 +186,29 @@ ecommerce-frontend/
    git clone https://github.com/your-username/myshop.git
    cd myshop
 Install dependencies
-
+```
 cd backend && npm install
 cd ../frontend && npm install
+```
 Environment variables
 Create .env in backend/ with:
-
+```
 MONGO_URI=your_mongo_atlas_uri
 JWT_SECRET=your_secret
 STRIPE_SECRET=your_stripe_secret
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_email_password
+```
 Run backend
-
+```
 cd backend
 npm run dev
+```
 Run frontend
-
+```
 cd frontend
 npm start
+```
 Visit
 
 http://localhost:3000
