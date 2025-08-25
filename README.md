@@ -6,7 +6,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Razorpay](https://stickypng.com/razorpay-logo-thumbnail/)  
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+
 
 **MyShop** is a modern full-stack e-commerce platform built with the MERN stack. It provides customers with a seamless shopping experience, secure authentication, order management, and integrated payments. An intuitive admin dashboard allows management of products, orders, and revenue analytics.  
 
