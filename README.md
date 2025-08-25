@@ -215,9 +215,11 @@ cd frontend
 npm start
 ```
 Visit
-
+```
 http://localhost:3000
+```
 🚀 Future Enhancements
+
 📝 Product Reviews & Ratings
 
 📦 Inventory / Stock Management
