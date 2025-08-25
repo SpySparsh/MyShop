@@ -193,11 +193,16 @@ cd ../frontend && npm install
 Environment variables
 Create .env in backend/ with:
 ```
-MONGO_URI=your_mongo_atlas_uri
-JWT_SECRET=your_secret
-STRIPE_SECRET=your_stripe_secret
-EMAIL_USER=your_email@example.com
-EMAIL_PASS=your_email_password
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/ecommerce
+JWT_SECRET=JWT seceret
+EMAIL_USER=email
+EMAIL_PASS=email pass
+JWT_ACCESS_EXPIRE=15m
+JWT_REFRESH_EXPIRE=7d
+JWT_REFRESH_SECRET=your_refresh_secret_here
+RAZORPAY_KEY_ID=razor pay id
+RAZORPAY_KEY_SECRET=razor seceret
 ```
 Run backend
 ```
