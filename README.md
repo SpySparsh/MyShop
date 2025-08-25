@@ -78,17 +78,17 @@ e-commerce/
 └── package.json
 ```
 
-✅ Highlights
+### Highlights
 
-controllers → only handle req / res.
+- controllers → only handle req / res.
 
-services → all business logic (DB queries, filtering, etc.).
+- services → all business logic (DB queries, filtering, etc.).
 
-middleware → re-usable auth/error handling.
+- middleware → re-usable auth/error handling.
 
-models → MongoDB schemas.
+- models → MongoDB schemas.
 
-utils → helper functions (JWT, emails, file handling).
+- utils → helper functions (JWT, emails, file handling).
 
 2. Frontend (React + Context API / Redux)
 ```
@@ -128,3 +128,110 @@ ecommerce-frontend/
 │
 └── package.json
 ```
+**Data Flow**  
+1. React frontend interacts with Express backend via REST APIs  
+2. Backend handles authentication, payments, orders, and product management  
+3. MongoDB stores users, products, orders, and carts  
+4. JWT tokens manage user sessions securely  
+5. Admin dashboard consumes backend APIs with admin-level permissions  
+
+---
+
+## ⚙️ Tech Stack  
+
+### Frontend  
+- ⚛️ React (SPA)  
+- 🎨 TailwindCSS + ShadCN (UI components)  
+- ⚡ React Router for navigation  
+- 🔑 Context API for auth & cart state  
+- 📡 Axios for API requests  
+
+### Backend  
+- 🟢 Node.js + Express.js  
+- 🗄️ MongoDB + Mongoose  
+- 🔐 JWT Authentication + bcrypt for password hashing  
+- 📤 Nodemailer for confirmation emails  
+- 💳 Stripe / UPI / Card integration for payments  
+
+### Deployment  
+- 🌐 Vercel (Frontend)  
+- 🚀 Render / Railway (Backend)  
+- ☁️ MongoDB Atlas (Database)  
+
+---
+
+## 📸 Screenshots  
+
+> Add your screenshots or demo GIFs here!  
+
+- 🏠 Home Page  
+- 📄 Product Details Page  
+- 🛒 Shopping Cart  
+- 💳 Checkout Flow  
+- 📊 Admin Dashboard  
+
+---
+
+## 📦 Installation Guide  
+
+### 🔧 Prerequisites  
+- Node.js >= 16  
+- MongoDB Atlas account  
+- Stripe API keys (for payments)  
+
+### 🔨 Setup Steps  
+
+1. **Clone repo**  
+   ```bash
+   git clone https://github.com/your-username/myshop.git
+   cd myshop
+Install dependencies
+
+cd backend && npm install
+cd ../frontend && npm install
+Environment variables
+Create .env in backend/ with:
+
+MONGO_URI=your_mongo_atlas_uri
+JWT_SECRET=your_secret
+STRIPE_SECRET=your_stripe_secret
+EMAIL_USER=your_email@example.com
+EMAIL_PASS=your_email_password
+Run backend
+
+cd backend
+npm run dev
+Run frontend
+
+cd frontend
+npm start
+Visit
+
+http://localhost:3000
+🚀 Future Enhancements
+📝 Product Reviews & Ratings
+
+📦 Inventory / Stock Management
+
+📊 Advanced Sales Analytics
+
+🌍 Multi-language & Multi-currency support
+
+🔔 Real-time order status notifications
+
+📱 PWA (Progressive Web App) support
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo, submit issues, and open pull requests.
+
+📜 License
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+Sparsh Sharma
+
+📍 Ghaziabad, Uttar Pradesh
+
+📧 sparshs730@gmail.com
+
+🔗 LinkedIn | GitHub
