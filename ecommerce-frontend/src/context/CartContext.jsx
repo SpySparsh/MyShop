@@ -11,7 +11,7 @@ export const CartProvider = ({ children }) => {
 
   const fetchCart = async () => {
     try {
-      const res = await axios.get('http://localhost:5000/api/cart', {
+      const res = await axios.get('https://myshop-4-rjis.onrender.com/api/cart', {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       setCart(res.data);
@@ -23,12 +23,12 @@ export const CartProvider = ({ children }) => {
   const addToCart = async (product, qty = 1) => {
     try {
       console.log('Adding to cart →', {
-  url: 'http://localhost:5000/api/cart',
+  url: 'https://myshop-4-rjis.onrender.com/api/cart',
   token: localStorage.getItem('token'),
   body: { productId: product._id, quantity: qty }
 });
       await axios.post(
-        'http://localhost:5000/api/cart',
+        'https://myshop-4-rjis.onrender.com/api/cart',
         { productId: product._id, quantity: qty },
         {
           headers: { Authorization: `Bearer ${getToken()}` },
@@ -42,7 +42,7 @@ export const CartProvider = ({ children }) => {
 
   const removeFromCart = async (productId) => {
     try {
-      await axios.delete(`http://localhost:5000/api/cart/${productId}`, {
+      await axios.delete(`https://myshop-4-rjis.onrender.com/api/cart/${productId}`, {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       fetchCart();
@@ -54,7 +54,7 @@ export const CartProvider = ({ children }) => {
   const updateQty = async (productId, qty) => {
     try {
       await axios.put(
-        `http://localhost:5000/api/cart/${productId}`,
+        `https://myshop-4-rjis.onrender.com/api/cart/${productId}`,
         { quantity: qty },
         {
           headers: { Authorization: `Bearer ${getToken()}` },
@@ -68,12 +68,12 @@ export const CartProvider = ({ children }) => {
 
   const clearCart = async () => {
     try {
-      const res = await axios.get('http://localhost:5000/api/cart', {
+      const res = await axios.get('https://myshop-4-rjis.onrender.com/api/cart', {
         headers: { Authorization: `Bearer ${getToken()}` },
       });
       for (const item of res.data) {
       if (item?._id) {
-        await axios.delete(`http://localhost:5000/api/cart/${item._id}`, {
+        await axios.delete(`https://myshop-4-rjis.onrender.com/api/cart/${item._id}`, {
           headers: { Authorization: `Bearer ${getToken()}` },
         });
       } else {
