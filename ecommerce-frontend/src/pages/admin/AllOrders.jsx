@@ -8,7 +8,7 @@ export default function AllOrders() {
 
   const fetchOrders = async () => {
     try {
-      const res = await axios.get('http://localhost:5000/api/orders/admin/all', {
+      const res = await axios.get('https://myshop-4-rjis.onrender.com/api/orders/admin/all', {
         headers: { Authorization: `Bearer ${accessToken}` }
       });
       const sortedOrders = res.data.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
@@ -24,7 +24,7 @@ export default function AllOrders() {
 
   const markDelivered = async (orderId) => {
     try {
-      await axios.patch(`http://localhost:5000/api/orders/${orderId}/deliver`, {}, {
+      await axios.patch(`https://myshop-4-rjis.onrender.com/api/orders/${orderId}/deliver`, {}, {
         headers: { Authorization: `Bearer ${accessToken}` }
       });
       fetchOrders();
@@ -36,7 +36,7 @@ export default function AllOrders() {
 
   const markPaid = async (orderId) => {
     try {
-      await axios.patch(`http://localhost:5000/api/orders/${orderId}/pay`, {}, {
+      await axios.patch(`https://myshop-4-rjis.onrender.com/api/orders/${orderId}/pay`, {}, {
         headers: { Authorization: `Bearer ${accessToken}` }
       });
       fetchOrders();
