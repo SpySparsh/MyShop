@@ -21,8 +21,13 @@ dotenv.config();
 const app = express();
 connectDB();
 
+const allowedOrigins = [
+  'https://my-shop-p23q.vercel.app', // Your Vercel frontend
+  'http://localhost:5173'             // Your local dev frontend
+];
+
 app.use(cors({
-  origin: 'http://localhost:5173', // or ['http://localhost:5173']
+  origin: allowedOrigins, // or ['http://localhost:5173']
   credentials: true
 }));
 app.use(morgan("dev"));
