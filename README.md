@@ -172,8 +172,9 @@ ecommerce-frontend/
 - 🛒 Shopping Cart
   <img width="3200" height="2000" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/b88344d7-81db-4c46-98fb-7a7f99e9572d" />
 - 💳 Checkout Flow
+  <img width="3200" height="2000" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/4cdb70f4-baea-4f3f-9c07-07867431ef91" />
+
   <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/ffe05e0b-9631-4d3a-b507-d2116c64af7c" />
-  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/56e5bb2c-b96c-44dd-bcda-82e385340e71" />
 - 📊 Admin Dashboard
   <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/bf9ae35d-c384-44fb-ae04-b3f1fd130fec" />
   <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/78831baf-008b-4f99-9175-05cd594c973e" />
