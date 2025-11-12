@@ -176,9 +176,11 @@ ecommerce-frontend/
 
   <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/ffe05e0b-9631-4d3a-b507-d2116c64af7c" />
 - 📊 Admin Dashboard
-  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/bf9ae35d-c384-44fb-ae04-b3f1fd130fec" />
-  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/78831baf-008b-4f99-9175-05cd594c973e" />
-- 📄 All Order and Order Details Page
+  <img width="3200" height="2000" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/bf5d2eb6-803b-4a1a-bda4-7a08dc45fd6c" />
+
+  <img width="3200" height="2000" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/be250766-68d8-46d4-aed2-095327ad3e8e" />
+
+- 📄 Customer Order and Order Details Page
   <img width="3200" height="2000" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/644ad5fb-9646-434e-beed-2adf34072cd6" />
 
   <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/15e908ab-a480-4d24-a890-99483b9a4f97" />
