@@ -166,23 +166,28 @@ ecommerce-frontend/
 > Add your screenshots or demo GIFs here!  
 
 ### 🏠 Home Page
-  <img width="3200" height="2000" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/5b6644a9-cfbf-44b2-a6a7-3c9634621a15" />
+- <img width="3200" height="2000" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/5b6644a9-cfbf-44b2-a6a7-3c9634621a15" />
+  
 ### 📄 Product Details Page
-  <img width="3200" height="2000" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/7b190a9c-bc7e-4eed-a449-f0429083e2c2" />
+- <img width="3200" height="2000" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/7b190a9c-bc7e-4eed-a449-f0429083e2c2" />
+  
 ### 🛒 Shopping Cart
-  <img width="3200" height="2000" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/b88344d7-81db-4c46-98fb-7a7f99e9572d" />
+- <img width="3200" height="2000" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/b88344d7-81db-4c46-98fb-7a7f99e9572d" />
+  
 ### 💳 Checkout Flow
-  <img width="3200" height="2000" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/4cdb70f4-baea-4f3f-9c07-07867431ef91" />
+- <img width="3200" height="2000" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/4cdb70f4-baea-4f3f-9c07-07867431ef91" />
+  
 
-  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/ffe05e0b-9631-4d3a-b507-d2116c64af7c" />
+- <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/ffe05e0b-9631-4d3a-b507-d2116c64af7c" />
+  
 ### 📊 Admin Dashboard
-  <img width="3200" height="2000" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/bf5d2eb6-803b-4a1a-bda4-7a08dc45fd6c" />
+- <img width="3200" height="2000" alt="Screenshot (350)" src="https://github.com/user-attachments/assets/bf5d2eb6-803b-4a1a-bda4-7a08dc45fd6c" />
 
-  <img width="3200" height="2000" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/be250766-68d8-46d4-aed2-095327ad3e8e" />
+- <img width="3200" height="2000" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/be250766-68d8-46d4-aed2-095327ad3e8e" />
 
 ### 📄 Customer Orders and Order Details Page
-  <img width="3200" height="2000" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/0ae680d0-1086-4b8f-803a-61bdbe4ca151" />
-  <img width="3200" height="2000" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/cd3a3aa7-f98f-41da-ae45-01bf32da1237" />
+- <img width="3200" height="2000" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/0ae680d0-1086-4b8f-803a-61bdbe4ca151" />
+- <img width="3200" height="2000" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/cd3a3aa7-f98f-41da-ae45-01bf32da1237" />
 
 
 ---
