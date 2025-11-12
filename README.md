@@ -165,11 +165,22 @@ ecommerce-frontend/
 
 > Add your screenshots or demo GIFs here!  
 
-- 🏠 Home Page  
-- 📄 Product Details Page  
-- 🛒 Shopping Cart  
-- 💳 Checkout Flow  
-- 📊 Admin Dashboard  
+- 🏠 Home Page
+  <img width="3200" height="2000" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/5b6644a9-cfbf-44b2-a6a7-3c9634621a15" />
+- 📄 Product Details Page
+  <img width="3200" height="2000" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/7b190a9c-bc7e-4eed-a449-f0429083e2c2" />
+- 🛒 Shopping Cart
+  <img width="3200" height="2000" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/b88344d7-81db-4c46-98fb-7a7f99e9572d" />
+- 💳 Checkout Flow
+  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/ffe05e0b-9631-4d3a-b507-d2116c64af7c" />
+  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/56e5bb2c-b96c-44dd-bcda-82e385340e71" />
+- 📊 Admin Dashboard
+  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/bf9ae35d-c384-44fb-ae04-b3f1fd130fec" />
+  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/78831baf-008b-4f99-9175-05cd594c973e" />
+- 📄 All Order and Order Details Page
+  <img width="3200" height="2000" alt="Screenshot (351)" src="https://github.com/user-attachments/assets/644ad5fb-9646-434e-beed-2adf34072cd6" />
+
+  <img width="3200" height="2000" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/15e908ab-a480-4d24-a890-99483b9a4f97" />
 
 ---
 
